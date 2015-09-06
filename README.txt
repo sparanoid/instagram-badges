@@ -77,6 +77,9 @@ Old-styled WordPress Mu:
 
 == Upgrade Notice ==
 
+= 1.1.8 =
+* Compatibility check for 4.3, nothing new, just bump version to tell everyone this plugin still works.
+
 = 1.1.7 =
 * Author URLs updated
 * Compatibility check for 4.2.2, nothing new, just bump version to tell everyone this plugin still works.
