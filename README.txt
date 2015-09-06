@@ -4,8 +4,8 @@ Contributors: Sparanoid
 Donate link: http://sparanoid.com/donate/
 Tags: widget, sidebar, button, badge, badges, instagram, css, javascript, multisite, wpmu
 Requires at least: 3.3.1
-Tested up to: 4.2.2
-Stable tag: 1.1.7
+Tested up to: 4.3
+Stable tag: 1.1.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,6 +43,9 @@ Old-styled WordPress Mu:
 2. All settings on instagram.com are available to change.
 
 == Changelog ==
+
+= 1.1.8 =
+* Compatibility check for 4.3, nothing new, just bump version to tell everyone this plugin still works.
 
 = 1.1.7 =
 * Author URLs updated
