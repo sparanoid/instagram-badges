@@ -1,13 +1,13 @@
 === Instagram Badges ===
 
 Contributors: Sparanoid
-Donate link: http://sparanoid.com/donate/
+Donate link: https://sparanoid.com/donate/
 Tags: widget, sidebar, button, badge, badges, instagram, css, javascript, multisite, wpmu
 Requires at least: 3.3.1
-Tested up to: 4.7
+Tested up to: 5.0
 Stable tag: 1.1.11
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Adds Instagram badges to your WordPress blog that will help you link to and promote your Instagram profile.
 
@@ -15,7 +15,7 @@ Adds Instagram badges to your WordPress blog that will help you link to and prom
 
 Adds Instagram badges to your WordPress blog that will help you link to and promote your Instagram profile. A must-have plugin if you're a photo lover. This plugin also works fine with multisite enabled WordPress (aka. WordPress Mu).
 
-More information please visit my [site](http://sparanoid.com/work/instagram-badges/).
+More information please visit my [site](https://sparanoid.com/work/instagram-badges/).
 
 == Installation ==
 

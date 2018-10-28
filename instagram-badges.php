@@ -1,19 +1,19 @@
 <?php
 /*
 Plugin Name: Instagram Badges
-Plugin URI: http://sparanoid.com/work/instagram-badges/
+Plugin URI: https://sparanoid.com/work/instagram-badges/
 Description: Adds Instagram badges to your WordPress blog that will help you link to and promote your Instagram profile.
 Version: 1.1.11
 Author: Tunghsiao Liu
-Author URI: http://sparanoid.com/
+Author URI: https://sparanoid.com/
 Author Email: t@sparanoid.com
 Text Domain: instagram-badges
 Domain Path: /lang/
 Network: false
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-  Copyright 2017 Tunghsiao Liu (t@sparanoid.com)
+  Copyright 2018 Tunghsiao Liu (t@sparanoid.com)
 
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License, version 2, as
